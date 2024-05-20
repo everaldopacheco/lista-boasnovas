@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_conteudo" value="name:id;datatype:int,name:titulo;datatype:string,name:data;datatype:string,name:video;datatype:string" />
+	<infoitem key="UD_videos" value="name:id;datatype:int,name:titulo;datatype:string,name:data;datatype:string,name:video;datatype:string" />
+</info>

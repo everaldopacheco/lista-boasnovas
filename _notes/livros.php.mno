@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_conteudo" value="name:titulo;datatype:string,name:nomeThumb;datatype:string,name:nomeImg;datatype:string,name:url;datatype:string" />
+</info>
