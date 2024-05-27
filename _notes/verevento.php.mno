@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_conteudo" value="name:id;datatype:int,name:dataAlteracao;datatype:timestamp,name:nomeImg;datatype:string,name:nomeThumb;datatype:string,name:titulo;datatype:string,name:conteudo;datatype:blob,name:data;datatype:blob,name:autor;datatype:blob,name:subTitulo;datatype:string,name:status;datatype:int,name:categoria;datatype:string,name:agenda;datatype:date" />
-</info>
